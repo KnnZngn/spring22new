@@ -14,3 +14,18 @@ public class Car {
     }
 
 }
+/*
+Method larda ise overriding devreye girer. yani Constructor() ı mız hangi class ise
+oranın metodunu kullanırız, babamız kim olursa olsun farketmez. variable kullanımının tersi bir
+işleyiş söz konusu, data türü car consructor corolla() ise
+NOT: DATA TÜRÜ CHİLD LARDAN SE Çİ LE MEZ
+1  önce kendi class ıma bakarım
+2. bulamazsam bir üste orda da bulamazsam dede ye bakarım
+3. hiç bi yerde yoksa zaten cte verir
+
+İŞTE BURADA -------OVERRİDİNG--------- DEVREYE GİRER 40. VİDEO 48. DAKİKA
+
+1. parent class taki bir method u child içine de yazmak isteyeblrz,
+örneğin engine(); methodu
+
+ */
